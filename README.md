@@ -26,5 +26,3 @@ Non-techie activities I love include spending time with my family and friends, r
 As I continue to develop in my new profession, I'd love to put my technical knowledge to practice, so please email me if you'd like to collaborate!
 
 :envelope: michelle@mochicastle.com
-
-[![Michelle Wahng's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-wahng)
