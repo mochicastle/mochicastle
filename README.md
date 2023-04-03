@@ -23,6 +23,6 @@ I am currently working on my portfolio website at www.mochicastle.com and thinki
 
 Non-techie activities I love include spending time with my family and friends, roller skating (I rediscovered my childhood passion during the pandemic), reading, knitting, cooking interesting recipes, and beautifying the home I share with Larry and Massimo. I also love taking advantage of all that Mother Nature has to offer in New England: hiking, going to the beach, camping, clamming and digging for oysters, and taking day trips to seaside towns. In the winter time, you're likely to find me hunkering down at home and getting cozy with a warm blanket and a good book.
 
-As I continue to develop in my new profession, I'd love to put my technical knowledge to practice, so please email me if you'd like to collaborate!
+I love putting my skills to practice, so please reach out if you'd like to collaborate!
 
 :envelope: michelle@mochicastle.com
